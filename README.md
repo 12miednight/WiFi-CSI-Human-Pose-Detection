@@ -1404,11 +1404,11 @@ POSE_MAX_PERSONS=10              # Max tracked individuals
 <summary><strong>Dev setup, code standards, PR process</strong></summary>
 
 ```bash
-git clone https://github.com/ruvnet/wifi-densepose.git
+git clone https://github.com/euaziel/WiFi-CSI-Human-Pose-Detection.git
 cd wifi-densepose
 
 # Rust development
-cd rust-port/wifi-densepose-rs
+cd rust-port/WiFi-CSI-Human-Pose-Detection
 cargo build --release
 cargo test --workspace
 
@@ -1427,50 +1427,10 @@ pre-commit install
 
 ---
 
-## 📄 Changelog
-
-<details>
-<summary><strong>Release history</strong></summary>
-
-### v3.0.0 — 2026-03-01
-
-Major release: AETHER contrastive embedding model, AI signal processing backbone, cross-platform adapters, Docker Hub images, and comprehensive README overhaul.
-
-- **Project AETHER (ADR-024)** — Self-supervised contrastive learning for WiFi CSI fingerprinting, similarity search, and anomaly detection; 55 KB model fits on ESP32
-- **AI Backbone (`wifi-densepose-ruvector`)** — 7 RuVector integration points replacing hand-tuned thresholds with attention, graph algorithms, and smart compression; [published to crates.io](https://crates.io/crates/wifi-densepose-ruvector)
-- **Cross-platform RSSI adapters** — macOS CoreWLAN and Linux `iw` Rust adapters with `#[cfg(target_os)]` gating (ADR-025)
-- **Docker images published** — `ruvnet/wifi-densepose:latest` (132 MB Rust) and `:python` (569 MB)
-- **Project MERIDIAN (ADR-027)** — Cross-environment domain generalization: gradient reversal, geometry-conditioned FiLM, virtual domain augmentation, contrastive test-time training; zero-shot room transfer
-- **10-phase DensePose training pipeline (ADR-023/027)** — Graph transformer, 6-term composite loss, SONA adaptation, RVF packaging, hardware normalization, domain-adversarial training
-- **Vital sign detection (ADR-021)** — FFT-based breathing (6-30 BPM) and heartbeat (40-120 BPM), 11,665 fps
-- **WiFi scan domain layer (ADR-022/025)** — 8-stage signal intelligence pipeline for Windows, macOS, and Linux
-- **700+ Rust tests** — All passing, zero mocks
-
-### v2.0.0 — 2026-02-28
-
-Complete Rust sensing server, SOTA signal processing, WiFi-Mat disaster response, ESP32 hardware, RuVector integration, guided installer, and security hardening.
-
-- **Rust sensing server** — Axum REST API + WebSocket, 810x speedup over Python, 54K fps pipeline
-- **RuVector integration** — 11 vendored crates for HNSW, attention, GNN, temporal compression, min-cut, solver
-- **6 SOTA signal algorithms (ADR-014)** — SpotFi, Hampel, Fresnel, spectrogram, subcarrier selection, BVP
-- **WiFi-Mat disaster response** — START triage, 3D localization, priority alerts — 139 tests
-- **ESP32 CSI hardware** — Binary frame parsing, $54 starter kit, 20 Hz streaming
-- **Guided installer** — 7-step hardware detection, 8 install profiles
-- **Three.js visualization** — 3D body model, 17 joints, real-time WebSocket
-- **Security hardening** — 10 vulnerabilities fixed
-
-</details>
-
----
-
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Mit License — see [LICENSE](LICENSE) for details.
 
 ## 📞 Support
 
-[GitHub Issues](https://github.com/ruvnet/wifi-densepose/issues) | [Discussions](https://github.com/ruvnet/wifi-densepose/discussions) | [PyPI](https://pypi.org/project/wifi-densepose/)
-
----
-
-**WiFi DensePose** — Privacy-preserving human pose estimation through WiFi signals.
+[X Profile](https://x.com/EuAziel) 
